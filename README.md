@@ -12,7 +12,9 @@
 
 12:30 - 13:30 LUNCH
 
-13:30 - 16:30 Forms, event listeners and methods on class components
+13:30 - 15:30 Forms, event listeners and methods on class components
+
+15:30 - 16:30 Amal learning English conversation sessions / typing
 
 ### Day 2
 

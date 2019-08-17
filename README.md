@@ -2,7 +2,7 @@
 
 ### Day 1
 
-08:30 - 09:30 Intro to React and bundlers
+08:30 - 09:30 [Intro to React and creating elements, from DOM to JSX](https://github.com/jema28/react-intro)
 
 09:30 - 09:45 Demo walkthrough simple functional react components
 
@@ -30,7 +30,7 @@
 
 ### Day 3
 
-08:30 - 10:00 Project setup
+08:30 - 10:00 Intro to bundlers and Project setup
 
 10:00 - 12:30 Project planning
 

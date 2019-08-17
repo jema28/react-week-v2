@@ -12,7 +12,7 @@
 
 12:30 - 13:30 LUNCH
 
-13:30 - 15:30 Forms, event listeners and methods on class components
+13:30 - 15:30 [Forms, event listeners and methods on class components](https://github.com/oliverjam/learn-react/tree/master/05-transform-the-form)
 
 15:30 - 16:30 Amal learning English conversation sessions / typing
 
@@ -26,7 +26,7 @@
 
 12:30 - 13:30 LUNCH
 
-13:30 - 16:30 [React mini project 2 - filterable product page](https://github.com/oliverjam/react-food-workshop)
+13:30 - 16:30 React mini project 2 - [filterable product page](https://github.com/oliverjam/react-food-workshop)
 
 ### Day 3
 

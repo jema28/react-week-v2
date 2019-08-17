@@ -8,7 +8,7 @@
 
 09:45 - 11:00 [Functional components with props exercises](https://github.com/rithmschool/react_exercises/tree/master/01-introduction-to-react/jsx-and-babel)
 
-11:00 - 12:30 Brief demo of js classes / Intro to class components with state
+11:00 - 12:30 Brief demo of [js classes](https://github.com/jema28/react-week-v2/blob/master/classes-in-js.md) / Intro to class components with state
 
 12:30 - 13:30 LUNCH
 

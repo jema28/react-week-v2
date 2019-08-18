@@ -24,7 +24,7 @@
 
 09:30 - 11:00 Lifecycle methods
 
-11:00 - 12:30 React mini project 1 - [React with dynamic data](https://github.com/jema28/react-dynamic-data-workshop)
+11:00 - 12:30 React mini project 1 - [React with dynamic data](https://github.com/jema28/react-dynamic-data-codealong)
 
 12:30 - 13:30 LUNCH
 

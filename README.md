@@ -20,11 +20,11 @@
 
 ### Day 2
 
-08:30 - 09:30 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)
+08:30 - 09:30 [Destructuring morning challenge](https://github.com/jema28/learn-destructuring)
 
 09:30 - 11:00 Lifecycle methods
 
-11:00 - 12:30 React mini project 1 - [React with dynamic data](https://github.com/oliverjam/react-dynamic-data-workshop)
+11:00 - 12:30 React mini project 1 - [React with dynamic data](https://github.com/jema28/react-dynamic-data-workshop)
 
 12:30 - 13:30 LUNCH
 

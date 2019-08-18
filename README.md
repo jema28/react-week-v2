@@ -10,7 +10,7 @@
 
 11:00 - 11:15 Brief demo of [js classes](https://github.com/jema28/react-week-v2/blob/master/classes-in-js.md) / [demo of class components](https://github.com/fack2/react-components-demo)
 
-11:15- 12:30 Intro to class components with state
+11:15- 12:30 [Mini react state workshop](https://github.com/fack2/mini-react-state-ws)
 
 12:30 - 13:30 LUNCH
 

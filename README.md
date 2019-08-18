@@ -4,11 +4,13 @@
 
 08:30 - 09:30 [Intro to React and creating elements, from DOM to JSX](https://github.com/jema28/react-intro)
 
-09:30 - 09:45 Demo walkthrough simple functional react components
+09:30 - 09:45 [Demo](https://github.com/fack2/react-components-demo) walkthrough simple functional react components
 
 09:45 - 11:00 [Functional components with props exercises](https://github.com/rithmschool/react_exercises/tree/master/01-introduction-to-react/jsx-and-babel)
 
-11:00 - 12:30 Brief demo of [js classes](https://github.com/jema28/react-week-v2/blob/master/classes-in-js.md) / Intro to class components with state
+11:00 - 11:15 Brief demo of [js classes](https://github.com/jema28/react-week-v2/blob/master/classes-in-js.md) / [demo of class components](https://github.com/fack2/react-components-demo)
+
+11:15- 12:30 Intro to class components with state
 
 12:30 - 13:30 LUNCH
 

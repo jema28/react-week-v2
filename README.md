@@ -28,7 +28,7 @@
 
 12:30 - 13:30 LUNCH
 
-13:30 - 16:30 React mini project 2 - [filterable product page](https://github.com/oliverjam/react-food-workshop)
+13:30 - 16:30 React mini project 2 - [filterable product page](https://github.com/fack2/react-food-workshop)
 
 ### Day 3
 
